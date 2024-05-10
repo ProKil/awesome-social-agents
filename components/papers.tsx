@@ -1051,6 +1051,17 @@ export const data: Paper[] = [
 },
         
  
+{ title: "Language agents with reinforcement learning for strategic play in the werewolf game",
+    date: "10/2023",
+    environments: "collaboration, competition, mixed_objectives",
+    agents: "reinforcement_learning, more_than_three_agents, agent_teams",
+    evaluation: "rule_based",
+    other: "n/a",
+    url: "https://arxiv.org/abs/2310.18940",
+    bibtex: "@article{xu2023language,\n  title={Language agents with reinforcement learning for strategic play in the werewolf game},\n  author={Xu, Zelai and Yu, Chao and Fang, Fei and Wang, Yu and Wu, Yi},\n  journal={arXiv preprint arXiv:2310.18940},\n  year={2023},\n  month={10},\n  url={https://arxiv.org/abs/2310.18940},\n  environments={collaboration, competition, mixed_objectives},\n  agents={reinforcement_learning, more_than_three_agents, agent_teams},\n  evaluation={rule_based},\n  other={n/a}\n}",
+},
+        
+ 
 { title: "Autonomous Evaluation and Refinement of Digital Agents",
     date: "04/2024",
     environments: "virtual",
